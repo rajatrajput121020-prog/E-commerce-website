@@ -30,7 +30,7 @@ git clone https://github.com/rajatrajput121020-prog/E-commerce-website.git
 cd ecommerce-website
 ```
 
-3. Open the `index.html` file in your browser.
+3. Open the `e_commerce.html` file in your browser.
 
 You can also use the Live Server extension in VS Code for a better development experience.
 
