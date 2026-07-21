@@ -4,7 +4,6 @@ This is a simple e-commerce website built using HTML, CSS, and JavaScript. The p
 
 ## Features
 
-- Responsive layout
 - Product listing
 - Product detail page
 - Add to cart
