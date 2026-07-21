@@ -22,7 +22,7 @@ This is a simple e-commerce website built using HTML, CSS, and JavaScript. The p
 1. Download or clone the repository.
 
 ```bash
-git clone rajatrajput121020-prog/E-commerce-website.git
+git clone https://github.com/rajatrajput121020-prog/E-commerce-website.git
 ```
 
 2. Open the project folder.
