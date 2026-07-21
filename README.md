@@ -38,11 +38,10 @@ You can also use the Live Server extension in VS Code for a better development e
 ## Project Structure
 
 ```
-ecommerce-website
-│── index.html
-│── css/
-│── js/
-│── images/
+e_commerce
+│── e_commerce.html
+│── e_commerce.css
+│── e_commerce.js
 └── README.md
 ```
 
